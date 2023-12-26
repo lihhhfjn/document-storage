@@ -1,2 +1,2 @@
 # document-storage
-store some important files
+适用于红柳项目调试大纲编写时参考
